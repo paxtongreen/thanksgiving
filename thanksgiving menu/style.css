@@ -1,0 +1,44 @@
+header{
+    padding: 50px;
+    color: white;
+    background: maroon;
+    text-align: center;
+}
+
+main{
+    padding-top: 50px;
+}
+
+main h1{
+    color: maroon;
+    text-align: center;
+}
+
+h2{
+    color: maroon;
+    text-align: center;
+}
+
+h4{
+    color: maroon;
+    text-align: center;
+}
+
+#menuItem{
+    border-bottom: 2px dotted maroon;
+    margin: 50px;
+    padding: 10px;
+}
+
+.addToPlate{
+    color: maroon;
+    border: 1px solid maroon;
+    border-radius: 5px;
+    padding: 10px;
+    background: none;
+}
+
+.addToPlate:hover{
+    color: white;
+    background: maroon;
+}
